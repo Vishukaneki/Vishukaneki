@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Vishukaneki (VISHAL)
-- ✌ joined NSUT engineering in ICE(INSTRUMENTATION AND CONTROL ENGINEERING)
+- 👋 Hi, I’m @Vishukaneki an engineer (VISHAL)
 - 👀 I’m interested in gaining and using Knowledge. 
 - 🌱 I’m currently learning java DSA (CUZ ITS CHALLENGING , a little and fun too)
 - 📫 You can reach to me with my email- vishalniranjan710@gmail.com
