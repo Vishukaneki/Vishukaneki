@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Vishukaneki&label=Profile+views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/Vishukaneki?label=Followers&style=flat" />
   <img src="https://img.shields.io/badge/Open_to-Collaborate-brightgreen?style=flat" />
-  <img src="https://img.shields.io/badge/NIT-SDE_Student-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Nsut Student-blue?style=flat" />
 </p>
 
 ---
